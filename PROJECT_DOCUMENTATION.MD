@@ -23,3 +23,4 @@
 ### Name 3: Paramdeep Singh
 
 -   Handled css file.
+-fixed error and bug
